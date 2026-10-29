@@ -1,0 +1,13 @@
+A Series is a one-dimensional labeled data structure.
+Why is Pandas important in Data Science?
+It helps clean, organize, process, and analyze data before visualization or machine learning.
+In short: Pandas makes working with data in Python easier, faster, and more organized.
+
+
+
+
+
+
+
+
+

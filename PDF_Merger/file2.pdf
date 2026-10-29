@@ -1,0 +1,1 @@
+This Python program is used to organize files in a selected folder, such as Downloads. It checks the extensions of files and creates separate folders for different file types, such as PDF, TXT, JPG, and PNG. The program then moves each file into its respective folder using the os and shutil modules. This reduces manual effort, saves time, and keeps the folder clean and organized.

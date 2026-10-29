@@ -1,0 +1,1 @@
+This Python program organizes all the files in your Downloads folder automatically. It checks each file’s extension, creates separate folders for file types such as PDF, TXT, and JPG, and moves the files into their respective folders using Python’s built-in os and shutil modules. This makes file management easier and keeps your Downloads folder clean and organized.
